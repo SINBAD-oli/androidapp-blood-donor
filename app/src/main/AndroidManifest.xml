@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.firebase.project.blooddonor">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!--
+    Allows Glide to monitor connectivity status and restart failed requests if users go from a
+    a disconnected to a connected network state.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAyHEkgGCBth79faiuJjAx3tYKCzrM-BdE" />
+
+        <activity android:name="com.google.firebase.project.blooddonor.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name="com.google.firebase.project.blooddonor.RegisterUser" />
+        <activity android:name="com.google.firebase.project.blooddonor.NewPostActivity" />
+        <activity android:name="com.google.firebase.project.blooddonor.PostDetailActivity"></activity>
+        <activity android:name="com.google.firebase.project.blooddonor.DonorDetailActivity"></activity>
+        <activity android:name="com.google.firebase.project.blooddonor.messaging.RealtimeDbChatActivity"></activity>
+    </application>
+
+</manifest>

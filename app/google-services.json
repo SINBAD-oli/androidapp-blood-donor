@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "643357497039",
+    "firebase_url": "https://friendlychat-7784f.firebaseio.com",
+    "project_id": "friendlychat-7784f",
+    "storage_bucket": "friendlychat-7784f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643357497039:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643357497039-6c1b5ahar0bdmme1f2ialogpnnth6mpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "d548735c8b00667df2f27f2f3375157ec8967930"
+          }
+        },
+        {
+          "client_id": "643357497039-b7bmn05a014dq0nelc0bam38rjoo29ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElO3JJB_ZBaYA7Hl8bBM-tgKQMskdBwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643357497039-b7bmn05a014dq0nelc0bam38rjoo29ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643357497039:android:c0d7700c1076d7e5",
+        "android_client_info": {
+          "package_name": "com.google.firebase.project.blooddonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643357497039-lqbacvogebk057v2gschah130dq0ctjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.project.blooddonor",
+            "certificate_hash": "d548735c8b00667df2f27f2f3375157ec8967930"
+          }
+        },
+        {
+          "client_id": "643357497039-b7bmn05a014dq0nelc0bam38rjoo29ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElO3JJB_ZBaYA7Hl8bBM-tgKQMskdBwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643357497039-b7bmn05a014dq0nelc0bam38rjoo29ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

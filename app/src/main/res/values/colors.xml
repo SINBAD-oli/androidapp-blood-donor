@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#E65100</color>
+    <color name="colorAccent">#2E7D32</color>
+    <color name="colorTitle">#ffffff</color>
+    <color name="material_gray_300">#E0E0E0</color>
+    <color name="material_gray_500">#9e9e9e</color>
+    <color name="material_green_300">#AED581</color>
+
+    <!-- Text color for the details of the place in the list item -->
+    <color name="textColorEarthquakeDetails">#B4BAC0</color>
+
+    <!-- Text color for the primary name of the place in the list item -->
+    <color name="textColorEarthquakeLocation">#2B3D4D</color>
+    <!-- Color for an earthquake with distance 0 and 2 -->
+    <color name="distance1">#4A7BA7</color>
+
+    <!-- distance circle color for an earthquake with distance between 2 and 3 -->
+    <color name="distance2">#04B4B3</color>
+
+    <!-- distance circle color for an earthquake with distance between 3 and 4 -->
+    <color name="distance3">#10CAC9</color>
+
+    <!-- distance circle color for an earthquake with distance between 4 and 5 -->
+    <color name="distance4">#F5A623</color>
+
+    <!-- distance circle color for an earthquake with distance between 5 and 6 -->
+    <color name="distance5">#FF7D50</color>
+
+    <!-- distance circle color for an earthquake with distance between 6 and 7 -->
+    <color name="distance6">#FC6644</color>
+
+    <!-- distance circle color for an earthquake with distance between 7 and 8 -->
+    <color name="distance7">#E75F40</color>
+
+    <!-- distance circle color for an earthquake with distance between 8 and 9 -->
+    <color name="distance8">#E13A20</color>
+
+    <!-- distance circle color for an earthquake with distance between 9 and 10 -->
+    <color name="distance9">#D93218</color>
+
+    <!-- distance circle color for an earthquake with distance over 10 -->
+    <color name="distance10plus">#C03823</color>
+</resources>
