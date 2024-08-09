@@ -1,8 +1,6 @@
 package com.google.firebase.project.blooddonor;
 
-/**
- * Created by Oliver Cimafranca on 2/23/2018.
- */
+
 
 public class User {
     private String mName;
