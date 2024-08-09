@@ -22,9 +22,7 @@ import com.google.firebase.project.blooddonor.models.Donor;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by Oliver Cimafranca on 2/23/2018.
- */
+
 
 public class RegisterUser extends AppCompatActivity {
     private FirebaseDatabase mFirebaseDatabase;
